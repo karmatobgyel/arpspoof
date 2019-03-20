@@ -8,7 +8,7 @@ GUI Address Resolutions Protocol (APR) Spoofing written in python
 - Sniff the basic http username and password
 
 ## How To
-- slect input for router and double click on the router ip addres
+- slect input for router and double click on the router ip address
 - select input for victim ip and double click on the ip address of the vicitim you want to sniff the packet off of
 - click on the interface name you want to listen to
 - click on the START SPOOF
