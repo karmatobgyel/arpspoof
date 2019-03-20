@@ -20,3 +20,10 @@ GUI Address Resolutions Protocol (APR) Spoofing written in python
 - click on the START SPOOF
 - watch the sniffing window
 
+## MODULES USED
+- socket
+- threading
+- tkinter  for gui
+- scapy 
+- scapy_http
+
