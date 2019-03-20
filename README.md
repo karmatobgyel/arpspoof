@@ -21,9 +21,9 @@ GUI Address Resolutions Protocol (APR) Spoofing written in python
 - watch the sniffing window
 
 ## Modules Used
-- socket
-- threading
-- tkinter  for gui
-- scapy 
-- scapy_http
+- `socket`
+- `threading`
+- `tkinter`  for gui
+- `scapy` 
+- `scapy_http`
 
