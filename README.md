@@ -1,6 +1,6 @@
 ### INTRO
 GUI Address Resolutions Protocol (APR) Spoofing written in python
-![screen shot](https://github.com/karmatobgyle/arpspoof/blob/master/nettools.png)
+ <img src="nettools.png" width="450" alt="screen shot">
 ## Features
 - Discovers the list of host IP address and mac address in the local area network
 - Shows the possible Gateway IP address
