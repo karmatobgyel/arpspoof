@@ -1,9 +1,11 @@
 ### INTRO
 GUI Address Resolutions Protocol (APR) Spoofing written in python
-Discovers the list of host IP address and mac address in the local area network
-Shows the possible Gateway IP address
-Shows available network interfaces
-Sniff the basic http username and password
+
+## Features
+- Discovers the list of host IP address and mac address in the local area network
+- Shows the possible Gateway IP address
+- Shows available network interfaces
+- Sniff the basic http username and password
 
 ## More To Implement 
 - SSL sniffing
