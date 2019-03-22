@@ -1,4 +1,4 @@
-### INTRO
+### GUI ARP SPOOFING
 GUI Address Resolutions Protocol (APR) Spoofing written in python
  <img src="nettools.png" width="480" alt="screen shot">
 ## Features
