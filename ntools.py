@@ -1,3 +1,14 @@
+#!/usr/bin/python
+#
+# 
+# Author: Karma Tobgyel
+# This material is intended for educational 
+# purposes only and the author can not be held liable for 
+# any kind of damages done whatsoever to your machine, 
+# or damages caused by some other,creative application of this material.
+# In any case you disagree with the above statement,stop here.
+
+
 from tkinter import *
 from tkinter import ttk
 import time
